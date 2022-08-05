@@ -56,7 +56,8 @@ html {
 }
 
 body {
-  background-color: #60a9ff;
+  background: rgb(44,132,252);
+background: linear-gradient(180deg, rgba(44,132,252,1) 0%, rgba(0,212,255,1) 100%);
   display: flex;
   justify-content: center;
   align-items: center;
