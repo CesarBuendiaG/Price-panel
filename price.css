@@ -128,10 +128,6 @@ body {
   transition: background-color 550ms ease-in-out;
 }
 
-/* .pricing-button:hover, .pricing-button:focus {
-  background-color: #e1f1ff;
-} */
-
 
 .pricing-button:hover{
   background-color: #269aff;
@@ -151,7 +147,7 @@ body {
     padding: 25px 50px;
     box-shadow: 0 0.5em 0.5em -0.5em transparent;
     border-radius: 5px;
-    transition: .5s;
+    transition: .3s;
   }
   
   .pricing-plan:last-child {
@@ -159,16 +155,7 @@ body {
   }
 
   .pricing-plan:hover{
-    /* border: 1px solid #e1f1ff; */
+    
     box-shadow: 0 0.5em 0.5em -0.5em #60a9ff;
   }
 }
-
-
-/* .pricing-plan {
-  border:1px solid transparent;
-}
-
-.pricing-plan:hover {
-  border:1px solid #269aff;
-} */
